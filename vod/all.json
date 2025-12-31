@@ -1,11 +1,6 @@
 {
     "sites": [
-        {
-            "name": "小鸭看看", 
-            "type": 3, 
-            "api": "csp_xykk", 
-            "ext": "https://raw.githubusercontent.com/qhone/Y/refs/heads/main/vod/xykk.js" 
-        },
+       
         {
             "name": "红果",
             "type": 3,
@@ -175,7 +170,7 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
         },
         {
-            "name": "LiBVIO",
+            "name": "LIBVIO",
             "type": 3,
             "api": "csp_libvio",
             "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
